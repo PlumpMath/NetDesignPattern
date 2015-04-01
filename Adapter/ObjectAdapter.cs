@@ -9,7 +9,7 @@ namespace Adapter
     public class ObjectAdapter:ITarget
     {
         Adaptee adaptee = new Adaptee();
-        public void DoSomeThingNew()
+        public void DoSomeThingClientNeed()
         {
             adaptee.DoSomeThingOld();
         }

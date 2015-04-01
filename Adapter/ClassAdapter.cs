@@ -11,7 +11,8 @@ namespace Adapter
     /// </summary>
     public class ClassAdapter : Adaptee,ITarget
     {
-        public void DoSomeThingNew()
+
+        public void DoSomeThingClientNeed()
         {
             this.DoSomeThingOld();
         }

@@ -11,9 +11,9 @@ namespace Adapter
         static void Main(string[] args)
         {
             ITarget target = new ClassAdapter();
-            target.DoSomeThingNew();
+            target.DoSomeThingClientNeed();
             ObjectAdapter adapter = new ObjectAdapter();
-            adapter.DoSomeThingNew();
+            adapter.DoSomeThingClientNeed();
             Console.ReadLine();
 
         }
