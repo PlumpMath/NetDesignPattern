@@ -1,0 +1,42 @@
+
+title:            杉亚的博客
+description:      记录技术的点点滴滴.
+disqus_shortname: sunzhuokai
+# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
+# When testing locally leave blank or use http://localhost:4000
+url:              #//sunzhuokai.github.io
+
+# Owner/author information
+owner:
+  name:           Sunzhuokai
+  avatar:         DSC_0504.jpg
+  bio:            "一个伪装成程序员的光明料理界未来之星"
+  email:          623326787@qq.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        
+  facebook:       
+  github: /Sunzhuokai        
+  stackexchange:  
+  linkedin:       
+  instagram:      
+  flickr:         
+  tumblr:         
+  # google plus id, include the '+', eg +mmistakes
+  google_plus:   103426929553509517305
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify: C3254100329D2F0779C01F5E39F1E4AD     
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Asia/Shanghai
+future:      true
+# pygments:    true
+highlighter: pygments
+mardown: redcarpet
+#markdown:    kramdown
+encoding: utf-8
+# Amount of posts to show on home page
+paginate: 5
