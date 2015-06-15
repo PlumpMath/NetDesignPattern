@@ -9,8 +9,8 @@ image:
   feature:
   credit:
   creditlink:
-comments:
-share:
+comments: true
+share: true
 date: 2015-06-07T23:25:44+08:00
 ---
 ## 你好，世界
